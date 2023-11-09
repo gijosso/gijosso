@@ -1,21 +1,14 @@
-## Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gijosso&show_icons=true&include_all_commits=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gijosso&theme=radical)
+## 📊
 
-## Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=gijosso&theme=onedark)
+<a href="https://github.com/gijosso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gijosso&count_private=true&hide_title=true&show_icons=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/gijosso">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gijosso&layout=compact&theme=ambient_gradient&card_width=467" />
+</a>
 
-<!--
-**gijosso/gijosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/gijosso">
+  <img width="934" align="center" src="https://github-profile-trophy.vercel.app/?username=gijosso&theme=tokyonight" />
+</a>
