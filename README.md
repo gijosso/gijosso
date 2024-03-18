@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gijosso&count_private=true&include_all_commits=true&show_icons=true&theme=ambient_gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gijosso&count_private=true&show_icons=true&theme=ambient_gradient" />
 </p>
 
 <p align="center">
